@@ -791,3 +791,4 @@
 - [Beldjoudi Wassim](https://github.com/mythsSIMOU)
 - [Naveen R](https://github.com/Naveen2070) Thank you for helping out 🫰😁
 - [TareSG] (https://github.com/taresmaj)
+- [Dev Gopal] (https://github.com/DG-1337)
